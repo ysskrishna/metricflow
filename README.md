@@ -1,5 +1,7 @@
 # MetricFlow - IT analytics dashboard-monitoring tool
 
+[![License: AGPL-3.0](https://img.shields.io/github/license/ysskrishna/metricflow)](https://github.com/ysskrishna/metricflow/blob/main/LICENSE) [![Author site](https://img.shields.io/badge/author-ysskrishna.space-informational)](https://ysskrishna.space)
+
 A React-based client application for visualizing and monitoring faults across IT devices
 
 ## Technologies used
@@ -48,6 +50,34 @@ http://localhost:5173/
 </video>
 
 
-
 https://github.com/user-attachments/assets/2695d7a3-9be6-4ec7-8363-ac5a45e15f0b
 
+## Built and maintained by
+
+MetricFlow - IT analytics dashboard-monitoring tool is built and maintained by:
+
+| | Name | GitHub | Role |
+|---|------|--------|------|
+| <img src="https://github.com/ysskrishna.png?size=120" width="60" height="60" alt="Y. Siva Sai Krishna"> | **Y. Siva Sai Krishna** | [@ysskrishna](https://github.com/ysskrishna) | Creator |
+
+## Support
+
+If you find this project helpful:
+
+- ⭐ Star the repository
+- 🐛 [Report issues](https://github.com/ysskrishna/metricflow/issues)
+- 🔀 Submit pull requests
+- 💝 [Sponsor on GitHub](https://github.com/sponsors/ysskrishna)
+
+## License
+
+AGPL-3.0 © [Y. Siva Sai Krishna](https://github.com/ysskrishna) — see [LICENSE](LICENSE) for details.
+
+---
+
+<p align="left">
+  <a href="https://github.com/ysskrishna">Author's GitHub</a> •
+  <a href="https://linkedin.com/in/ysskrishna">Author's LinkedIn</a> •
+  <a href="https://ysskrishna.space">Author's site</a> •
+  <a href="https://github.com/ysskrishna/metricflow/issues">Report Issues</a>
+</p>
